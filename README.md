@@ -1,16 +1,18 @@
 ## 👋 Hi, I'm Violetta 
----
-### :woman_technologist: About Me :
-## I'm Python backend developer :computer:
----
+### :computer: About Me :
+- I'm Python backend developer from Russia
+- How to reach me: tg: @vlkttlv email: vitavitavita04@bk.ru
 ### :hammer_and_wrench: Languages and Tools :
 - Python
 - FastAPI
 - SQLAlchemy
 - PostgreSQL
+- Redis
 - Pytest
+- Docker
 - HTML
 - CSS
+- Bootstrap
 
 <!--
 **vlkttlv/vlkttlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
