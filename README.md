@@ -1,8 +1,4 @@
 ## 👋 Hi, I'm Violetta 
-### :computer: About Me :
-- I'm Python backend developer from Russia
-- How to reach me: 
-  tg: @vlkttlv email: vitavitavita04@bk.ru
 ### :hammer_and_wrench: Languages and Tools :
 - Python
 - FastAPI
