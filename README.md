@@ -1,10 +1,16 @@
 ## 👋 Hi, I'm Violetta 
 ---
 ### :woman_technologist: About Me :
-### I'm Python backend developer :computer:
+## I'm Python backend developer :computer:
 ---
 ### :hammer_and_wrench: Languages and Tools :
-
+- Python
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Pytest
+- HTML
+- CSS
 
 <!--
 **vlkttlv/vlkttlv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
