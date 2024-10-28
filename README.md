@@ -4,7 +4,7 @@
 - FastAPI
 - SQLAlchemy
 - PostgreSQL
-- Redis
+- Celery
 - Pytest
 - Docker
 - HTML
