@@ -28,8 +28,8 @@ tg: @vlkttlv email: vitavitavita04@bk.ru
 
 ---
 
-### 💻 LeetCode:
-![LeetCode](https://leetcard.jacoblin.cool/vltbrhnv?theme=dark&font=Gowun%20Dodum&ext=heatmap)
+### ⚡ My stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vlkttlv)](https://git.io/streak-stats)
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
