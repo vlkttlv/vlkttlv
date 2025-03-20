@@ -10,7 +10,7 @@ src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJwazdvZ2l3N2Vpdm42OG1obnY1
 ---
 
 ### 📞 How to reach me: 
-tg: @vlkttlv email: vitavitavita04@bk.ru
+tg: [@vlkttlv](https://t.me/vlkttlv) email: vitavitavita04@bk.ru
 
 ---
 
